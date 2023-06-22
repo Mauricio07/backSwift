@@ -1,6 +1,6 @@
 package com.swift.controller;
 
-import com.swift.exception.ResourceNotFoundException;
+import com.swift.services.exception.ResourceNotFoundException;
 import com.swift.model.Users;
 import com.swift.repository.UserReposiory;
 import org.springframework.beans.factory.annotation.Autowired;

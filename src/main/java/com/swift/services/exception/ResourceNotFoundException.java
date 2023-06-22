@@ -1,4 +1,4 @@
-package com.swift.exception;
+package com.swift.services.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
